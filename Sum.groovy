@@ -1,4 +1,4 @@
-/* cerer_2tothe5th_2022 */
+/* cerner_2tothe5th_2022 */
 
 class Sum{
     static void main(String[] args){
