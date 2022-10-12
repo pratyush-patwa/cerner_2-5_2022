@@ -1,4 +1,4 @@
---cerner_2tothe5th_2022
+-- cerner_2tothe5th_2022
 local num1, num2
 
 print("Enter num1 : ")
