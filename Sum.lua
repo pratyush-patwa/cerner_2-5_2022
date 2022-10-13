@@ -1,4 +1,5 @@
 -- cerner_2tothe5th_2022
+-- sum programm
 local num1, num2
 
 print("Enter num1 : ")
